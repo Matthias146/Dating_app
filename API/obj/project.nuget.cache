@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "DRvYHV1R87A=",
+  "success": true,
+  "projectFilePath": "/Users/matthiashammelehle/Desktop/Dev/projects/dating_app/API/API.csproj",
+  "expectedPackageFiles": [
+    "/Users/matthiashammelehle/.nuget/packages/microsoft.aspnetcore.openapi/10.0.8/microsoft.aspnetcore.openapi.10.0.8.nupkg.sha512",
+    "/Users/matthiashammelehle/.nuget/packages/microsoft.openapi/2.0.0/microsoft.openapi.2.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
